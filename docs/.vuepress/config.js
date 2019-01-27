@@ -1,4 +1,5 @@
 module.exports = {
+  base:'/alice-ui-doc-online/',
   title: 'Alice-UI',
   description: '一个VUE移动端的UI框架',
   themeConfig: {
